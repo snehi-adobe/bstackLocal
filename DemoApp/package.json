@@ -1,0 +1,12 @@
+{
+  "name": "testapp",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.html",
+  "scripts": {
+    "bstack_test": "node ./ui_tests/bstackTest.js",
+    "start" :"node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
